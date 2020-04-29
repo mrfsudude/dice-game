@@ -1,0 +1,34 @@
+
+body {
+  background-color: #393E46;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Lobster', cursive;
+  color: #4ECCA3;
+  font-size: 8rem;
+  display: inline-block;
+  margin: auto 30px auto 30px;
+}
+
+h2 {
+  font-family: "Indie Flower", cursive;
+  color: #4ECCA3;
+  padding-bottom: 20px;
+}
+
+/* classes */
+.dice-area {
+  padding: 2% 10%;
+}
+
+.dice {
+  display: inline-block;
+  padding: 2%;
+}
+
+.fa-flag-checkered {
+  font-size: 8rem;
+  color: #B33951;
+}
